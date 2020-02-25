@@ -2,7 +2,7 @@
 Project Name: student Result Management System
 
 visit the whole project first by opening ---
-“https://atharvshukla.github.io/srms-Atharvshukla.com/index.html”
+“https://atharvshukla.github.io/srms-Atharvshukla.com/index.html
 
 
 How to run this Project
